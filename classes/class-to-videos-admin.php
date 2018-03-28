@@ -6,7 +6,7 @@
  * @author    LightSpeed
  * @license   GPL-2.0+
  * @link
- * @copyright 2017 LightSpeedDevelopment
+ * @copyright 2018 LightSpeedDevelopment
  */
 
 /**
