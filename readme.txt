@@ -1,7 +1,7 @@
 === Tour Operator Videos ===
 Contributors: feedmymedia
 Donate link: https://www.lsdev.biz/product/tour-operator-videos/
-Tags: tour opertator, lsx theme, video, video gallery, embeded video
+Tags: tour operator, lsx theme, video, video gallery, embeded video
 Requires at least: 4.3
 Tested up to: 4.9.4
 Requires PHP: 7.0
