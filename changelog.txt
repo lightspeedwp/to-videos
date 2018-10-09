@@ -1,7 +1,7 @@
 ## Change log
 
 ### 1.1.1
-* Dev - Updated the plugin to work with the Tour Operator 1.1.2 rewrite
+* Dev - Allowing compatibility with the TO Vehicles plugin
 
 ### 1.1.0
 * Dev - Support LSX Theme 2.0 new designs
