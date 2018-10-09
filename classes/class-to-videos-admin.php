@@ -29,6 +29,7 @@ class LSX_TO_Videos_Admin extends LSX_TO_Videos {
 		add_filter( 'lsx_to_review_custom_fields', array( $this, 'custom_fields' ) );
 		add_filter( 'lsx_to_activity_custom_fields', array( $this, 'custom_fields' ) );
 		add_filter( 'lsx_to_special_custom_fields', array( $this, 'custom_fields' ) );
+		add_filter( 'lsx_to_vehicle_custom_fields', array( $this, 'custom_fields' ) );
 	}
 
 	/**
