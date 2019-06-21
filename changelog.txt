@@ -1,7 +1,8 @@
 ## Change log
 
-### 1.1.1
+### 1.1.1 - 21st June 2019
 * Dev - Allowing compatibility with the TO Vehicles plugin
+* Dev - Updating the package dependancies
 
 ### 1.1.0
 * Dev - Support LSX Theme 2.0 new designs

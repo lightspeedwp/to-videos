@@ -1,50 +1,51 @@
 === Tour Operator Videos ===
 Contributors: feedmymedia
 Donate link: https://www.lsdev.biz/product/tour-operator-videos/
-Tags: tour operator, lsx theme, video, video gallery, embeded video
-Requires at least: 4.3
-Tested up to: 4.9.4
+Tags: tour operator, lsx theme, video, video gallery, embedded video
+Requires at least: 4.7
+Tested up to: 5.2.2
 Requires PHP: 7.0
-Stable tag: 1.2
+Stable tag: 1.2.0
 License: GPLv3
 
-Embed beautiful videos on your Accommodation, Destination and Tour pages.
+Welcome to the [Tour Operator Videos extension](https://tour-operator.lsdev.biz/extensions/search/).
 
-== Description ==
+If you haven't yet had the chance to [install and configure the Tour Operator Plugin](https://tour-operator.lsdev.biz), you should do that before proceeding here! 
 
-The Tour Operator Videos extension allows you to embed up to 3 videos on any of the core Tour Operator content type single or archive pages.
+So here's a little info on the Tour Operator Videos Extension; if you are looking to embed videos on your Tour Operator singles and archives, this plugin does all the heavy lifting - allowing you to upload and display videos easily. 
 
-= Works with the LSX Theme =
-We've also made a fantastic [theme](https://www.lsdev.biz/product/lsx-wordpress-theme/) that work well with the Tour Operator Videos plugin.
+## Works with the LSX Theme
 
-= It's free, and always will be. =
-We’re firm believers in open source - that’s why we’re releasing the Tour Operator Video Extension plugin for free, forever. We offer free support on the [Tour Operator Videos support forums](https://wordpress.org/support/plugin/tour-operator-maps).
+Our [theme](https://lsx.lsdev.biz/) works seamlessly with the Tour Operator Plugin, this includes all of the TO Extensions. 
 
-= Support =
-We offer premium support for this plugin. Premium support that can be purchased via [lsdev.biz](https://www.lsdev.biz/).
+We continuously are keeping up-to-date with the latest security and functionality. 
 
-== Installation ==
+## Gutenberg Compatible Plugin
 
-1. Upload the plugin files to the `/wp-content/plugins/to-videos` directory, or install the plugin through the WordPress plugins screen directly.
-2. Activate the plugin through the 'Plugins' screen in WordPress
+Have you updated to the new WordPress Gutenberg editor? We've got you covered! The Tour Operator Videos Plugin has been optimised for the Gutenberg update. 
 
-== Frequently Asked Questions ==
+Check out our [our Tour Operator dedicated website](https://tour-operator.lsdev.biz/) to check out all our available extensions and features.
 
-= Where can I find Tour Operator Videos plugin documentation and user guides? =
-For help setting up and configuring the Tour Operator Videos Extension plugin please refer to our [user guide](https://www.lsdev.biz/documentation/to/tour-operator-maps/)
+## It's free, and always will be.
+We’re firm believers in open source - that’s why this extension is free, and that won't change. 
 
-= Where can I get support or talk to other users =
-If you get stuck, you can ask for help in the [Tour Operator Videos plugin forum](https://wordpress.org/support/plugin/to-videos).
-For help with premium add-ons from LightSpeed, use [our contact page](https://www.lsdev.biz/contact-us/)
+We are constantly maintaining and updating our extension so you have the latest and greatest abilities on your LSX Theme powered site. 
 
-= Will the Tour Operator Videos plugin work with my theme 
-No; the Tour Operator Videos plugin will only work with the LSX theme. [LSX Theme](https://www.lsdev.biz/product/lsx-wordpress-theme/).
+## Tour Operator Videos Documentation
 
-= Where can I report bugs or contribute to the project? =
-Bugs can be reported either in our support forum or preferably on the [Tour Operator Videos GitHub repository](https://github.com/lightspeeddevelopment/lsx/issues).
+Anything you need to double check, or simply need a walkthrough for setting up the extension? Visit the [Tour Operator Videos documentation](https://tour-operator.lsdev.biz/documentation/extension/videos/).
 
-= The Tour Operator Videos plugin is awesome! Can I contribute? =
-Yes you can! Join in on our [GitHub repository](https://github.com/lightspeeddevelopment/to-videos) :)
+## Tour Operator Videos Help & Support
+
+We offer premium support for this plugin. Premium support that can be purchased [via our website](https://www.lsdev.biz/services/support/).
+
+If you are experiencing issues with the Tour Operator Videos Plugin & have experience with Github, please log any bug issues you are having on the [Tour Operator Videos Github Issues](https://github.com/lightspeeddevelopment/to-videos/issues/) page.
+
+## Contributing to the Tour Operator Videos Plugin
+
+If you're a developer who's spotted a bug issue and have a fix, or simply have the functionality you think would extend our core theme, we are always happy to accept your contribution! 
+
+Visit the [Tour Operator Videos Plugin on Github](https://github.com/lightspeeddevelopment/to-videos/) and submit a Pull Request with your updates.
 
 == Screenshots ==
 
