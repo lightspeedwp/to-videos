@@ -8,7 +8,7 @@
     <a href="https://tour-operator.lsdev.biz/"><img src="https://lsx.lsdev.biz/wp-content/uploads/2019/06/Designed-for-Tour-Operator-plugin-1098ad.png" alt="Tour Operator"></a>
 </p>
 
-Welcome to the [Tour Operator Videos extension](https://tour-operator.lsdev.biz/extensions/search/).
+Welcome to the Tour Operator Videos extension
 
 If you haven't yet had the chance to [install and configure the Tour Operator Plugin](https://tour-operator.lsdev.biz), you should do that before proceeding here! 
 
@@ -16,9 +16,9 @@ So here's a little info on the Tour Operator Videos Extension; if you are lookin
 
 ## Works with the LSX Theme
 
-Our [theme](https://lsx.lsdev.biz/) works seamlessly with the Tour Operator Plugin, this includes all of the TO Extensions. 
+The [Tour Operator Plugin](https://tour-operator.lsdev.biz) and [Extensions](https://tour-operator.lsdev.biz/extensions/) are designed to work seamlessly with the LSX theme. 
 
-We continuously are keeping up-to-date with the latest security and functionality. 
+We are always updating our software to add functionality, and maintain latest security protocols. 
 
 ## Gutenberg Compatible Plugin
 
