@@ -5,7 +5,7 @@ Tags: tour operator, lsx theme, video, video gallery, embedded video
 Requires at least: 4.7
 Tested up to: 5.2.2
 Requires PHP: 7.0
-Stable tag: 1.2.0
+Stable tag: 1.2
 License: GPLv3
 
 Welcome to the [Tour Operator Videos extension](https://tour-operator.lsdev.biz/extensions/search/).
