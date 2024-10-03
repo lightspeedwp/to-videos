@@ -29,6 +29,6 @@
     "gulp-sort": "^2.0.0",
     "gulp-uglify": "^3.0.2",
     "gulp-wp-pot": "^2.3.5",
-    "jshint": "^2.10.2"
+    "jshint": "^2.13.6"
   }
 }
