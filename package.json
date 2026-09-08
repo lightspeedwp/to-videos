@@ -1,6 +1,6 @@
 {
   "name": "to-videos",
-  "version": "1.2",
+  "version": "1.2.1",
   "description": "Tour Operators add-on for LSX",
   "scripts": {
     "build:pot": "wp i18n make-pot . languages/to-videos.pot",

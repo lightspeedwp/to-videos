@@ -1,5 +1,14 @@
 ## Change log
 
+### 1.2.1
+* Dev - Removed the gulp toolchain. The gulpfile used gulp 3 task syntax against a declared gulp 5, so every invocation aborted at load and this build had not run in years.
+* Dev - This plugin has no asset pipeline; the only gulp tasks were POT, PO and MO generation. Those move to WP-CLI npm scripts (wp i18n make-pot / update-po / make-mo), matching Tour Operator.
+* Dev - Dropping gulp removes 296 transitive packages and package-lock.json, since no dependencies remain to lock.
+* Dev - Node pinned to 24.20.0, the current LTS line.
+* Dev - Added CI: PHP syntax lint across 8.2, 8.3 and 8.4.
+* Dev - Removed .travis.yml, which targeted PHP 5.6/7.0/7.1 and WordPress 4.3, .mergify.yml, which auto-merged every Dependabot pull request unreviewed, and the Sublime project file. Added a .gitignore.
+* Security - Cleared all three Dependabot alerts. All came through gulp-gettext to gulp-util to lodash.template, abandoned upstream with no patched version available, so removing the packages was the only available fix.
+
 ### 1.1.1 - 21st June 2019
 * Dev - Allowing compatibility with the TO Vehicles plugin
 * Dev - Updating the package dependancies
