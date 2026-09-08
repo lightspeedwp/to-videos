@@ -2,13 +2,15 @@
   "name": "to-videos",
   "version": "1.2",
   "description": "Tour Operators add-on for LSX",
-  "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:pot": "wp i18n make-pot . languages/to-videos.pot",
+    "build:po": "wp i18n update-po languages/to-videos.pot languages/to-videos-en_EN.po",
+    "build:mo": "wp i18n make-mo languages",
+    "build:lang": "npm run build:pot && npm run build:po && npm run build:mo"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://www.lsdev.biz/product/tour-operator-videos/"
+    "url": "git+https://github.com/lightspeedwp/to-videos.git"
   },
   "keywords": [
     "lsx",
@@ -17,18 +19,11 @@
   "author": "LightSpeed",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://www.lsdev.biz/product/tour-operator-videos/issues"
+    "url": "https://github.com/lightspeedwp/to-videos/issues"
   },
-  "homepage": "https://www.lsdev.biz/product/tour-operator-videos/#readme",
-  "devDependencies": {
-    "gulp": "^5.0.0",
-    "gulp-gettext": "^0.3.0",
-    "gulp-jshint": "^2.1.0",
-    "gulp-plumber": "^1.2.1",
-    "gulp-rename": "^1.4.0",
-    "gulp-sort": "^2.0.0",
-    "gulp-uglify": "^3.0.2",
-    "gulp-wp-pot": "^2.3.5",
-    "jshint": "^2.13.6"
+  "homepage": "https://github.com/lightspeedwp/to-videos#readme",
+  "engines": {
+    "node": ">=24.0.0",
+    "npm": ">=11.0.0"
   }
 }
