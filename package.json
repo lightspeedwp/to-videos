@@ -4,7 +4,7 @@
   "description": "Tour Operators add-on for LSX",
   "scripts": {
     "build:pot": "wp i18n make-pot . languages/to-videos.pot",
-    "build:po": "cp languages/to-videos.pot languages/to-videos-en_EN.po",
+    "build:po": "wp i18n update-po languages/to-videos.pot languages/to-videos-en_EN.po",
     "build:mo": "wp i18n make-mo languages",
     "build:lang": "npm run build:pot && npm run build:po && npm run build:mo"
   },
